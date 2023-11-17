@@ -27,8 +27,12 @@ I will be (attempting) to submit a functioning URL for the refactored index.html
 
 From what I can see, the semantic HTML elements are present and follow a logical structure (as far as I currently understand).
 
-When I originally viewed the HTML elements for the 
+When I refactored the image elements, I checked the syntax by checking the relevant W3 resource (https://www.w3schools.com/html/html_images.asp). I referred to the relevant Harvard document
+in order to look at examples of appropriate length of alt text for an image element (https://accessibility.huit.harvard.edu/describe-content-images).
 
+The heading attributes seem to currently match what is sugested in the mockup for the assignment.
+
+I believe the title element has a concise, descriptive title.
 
 -----
 DISCLAIMER: I had been working on this assignment and I think I must have started committing to two separate HTML files for the project because something about the following file was breaking the way it would display in the browser. I'm including the file I deleted to show what edits I have made to that particular file and hopefully receive feedback as to why it may have broken.
